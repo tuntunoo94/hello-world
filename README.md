@@ -1,3 +1,3 @@
 # hello-world
 
-I am Tun. I starts learning code.
+I am Tun. I am learning code.
